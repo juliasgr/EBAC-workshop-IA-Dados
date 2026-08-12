@@ -25,7 +25,7 @@ O objetivo é praticar o ciclo completo de uma análise de dados: **limpeza → 
 
 ## Fonte dos dados
 
-- **Nome do arquivo:** `ecommerce_sales_analytics_5000.csv`
+- **Nome do arquivo:** `ecommerce_sales_analytics_5000-selected-columns.csv`
 - **Linhas / colunas:** 5.000 pedidos × 10 colunas
 - **Colunas:** `order_id`, `order_date`, `customer_id`, `product_category`, `region`, `quantity`, `unit_price`, `discount`, `payment_method`, `delivery_days`
 
@@ -62,30 +62,14 @@ O objetivo é praticar o ciclo completo de uma análise de dados: **limpeza → 
 └── README.md
 ```
 
-## ⚙️ Como executar
-
-```bash
-# clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-
-# crie o ambiente virtual e instale as dependências
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-# abra o notebook
-jupyter notebook notebooks/analise_exploratoria.ipynb
-```
-
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 👤 Autor
+## 👤 Autora
 
 Feito por **Julia de Souza Seger** — projeto desenvolvido durante o workshop de Dados e IA da [EBAC](https://ebaconline.com.br).
 
