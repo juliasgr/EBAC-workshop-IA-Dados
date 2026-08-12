@@ -26,6 +26,7 @@ O objetivo é praticar o ciclo completo de uma análise de dados: **limpeza → 
 ## Fonte dos dados
 
 - **Nome do arquivo:** `ecommerce_sales_analytics_5000-selected-columns.csv`
+- **Link da base de dados utilizada:** `https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset`
 - **Linhas / colunas:** 5.000 pedidos × 10 colunas
 - **Colunas:** `order_id`, `order_date`, `customer_id`, `product_category`, `region`, `quantity`, `unit_price`, `discount`, `payment_method`, `delivery_days`
 
